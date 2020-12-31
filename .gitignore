@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+
+# Environment
 .history
+.eslintcache
 
 # testing
 /coverage
@@ -12,7 +15,7 @@
 # production
 /build
 
-#API KEYs
+# API KEYs
 .env
 
 # misc
